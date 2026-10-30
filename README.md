@@ -1,10 +1,12 @@
 # SimVM.Luau
 
-An implementation of SimAntics targeting Luau, based on [FreeSO](https://github.com/riperiperi/FreeSO)'s source code.
+A simplified implementation of SimAntics targeting Luau, based on [FreeSO](https://github.com/riperiperi/FreeSO)'s source code.
 
 SimVM.Luau ports the structure of FreeSO's SimAnticsVM to Luau as a standalone library, so any Luau project can embed it, fork it or build its own game on top of it.
 
 It does not load EA / The Sims Online content. There is no BHAV/IFF bytecode interpreter and no original assets. Object behaviors are plain Luau modules supplied by the host game.
+
+> Note: This is a side-project I decided to make as a side-quest, don't expect this to be completed within a reasonable amount of time. I'll take my time understand how SimAntics actually works first.
 
 ## Design rules
 
