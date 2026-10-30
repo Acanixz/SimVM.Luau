@@ -1,0 +1,1 @@
+-- household/world clock, pause, 1x–3x

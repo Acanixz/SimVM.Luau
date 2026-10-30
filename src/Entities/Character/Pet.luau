@@ -1,0 +1,1 @@
+-- autonomous-only pet, refuses direct commands

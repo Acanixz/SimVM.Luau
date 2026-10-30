@@ -1,0 +1,1 @@
+-- Entity type for furniture and items

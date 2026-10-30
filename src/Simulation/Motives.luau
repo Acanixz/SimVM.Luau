@@ -1,0 +1,1 @@
+-- decay, thresholds, failure states

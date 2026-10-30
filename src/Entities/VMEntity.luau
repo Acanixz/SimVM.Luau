@@ -1,0 +1,1 @@
+-- base class for everything that lives on a lot (VMEntity)
